@@ -234,41 +234,17 @@ Combines static node embeddings with learned temporal patterns across multiple t
 
 ## Publications & Citation
 
-If you use HMLMs in your research, please cite:
+If you use HMLMs in your research, please cite: (Pre-print available at: arXiv:submit/7034338 [cs.AI] 30 Nov 2025)
 
 ```bibtex
 @article{Hays2025HMLM,
   title={Hierarchical Molecular Language Models: Bridging Molecular Mechanisms with Cellular Phenotypes via AI-Driven Molecular Language Representation},
-  author={Hays, Hasi and Yu, Yue and Richardson, William J.},
+  author={Hays, Hasi and Yu, Yue and Richardson, William},
   journal={[Journal Name]},
   year={2025},
   doi={10.xxxx/xxxxx}
 }
 ```
-
-## Limitations & Future Directions
-
-### Current Limitations
-- Dependence on curated pathway databases (may bias toward well-studied systems)
-- Complexity of transformer architectures limits mechanistic interpretability in clinical contexts
-- Validation on synthetic data requires confirmation on experimental datasets
-
-### Future Work
-- **De novo network learning**: Inferring network structure directly from data while preserving biological constraints
-- **Single-cell integration**: Modeling heterogeneity in cell-to-cell signaling
-- **Spatial signaling**: Incorporating tissue architecture and microenvironmental influences
-- **Foundation models**: Large-scale pre-training on comprehensive biological datasets for transfer learning
-- **Multi-omics expansion**: Integration of genomics, lipidomics, metabolomics, and epigenomics
-
-## Contributing
-
-We welcome contributions! Please:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit changes (`git commit -am 'Add new feature'`)
-4. Push to branch (`git push origin feature/improvement`)
-5. Submit a Pull Request
 
 ## Support & Issues
 
