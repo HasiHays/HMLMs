@@ -6,7 +6,7 @@
 
 ## Overview
 
-Hierarchical Molecular Language Models (HMLMs) represent a paradigm shift in computational systems biology by treating cellular signaling networks as specialized "molecular languages." This framework adapts transformer architectures to model complex biological signaling across multiple scales—from individual molecules to cellular responses, enabling superior predictive accuracy and mechanistic biological insights.
+Hierarchical Molecular Language Models (HMLMs) represent a paradigm shift in computational systems biology by treating cellular signaling networks as specialized "molecular languages". This framework adapts transformer architectures to model complex biological signaling across multiple scales from individual molecules to cellular responses, enabling superior predictive accuracy and mechanistic biological insights.
 
 HMLMs achieve **30% improvement over Graph Neural Networks (GNNs)** and **52% improvement over Ordinary Differential Equation (ODE) models** in temporal signaling prediction, while maintaining robust performance under sparse temporal sampling conditions.
 
