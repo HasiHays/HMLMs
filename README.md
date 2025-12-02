@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![arXiv](https://img.shields.io/badge/arXiv-2025.xxxxx-b31b1b.svg)](https://doi.org/10.48550/arXiv.2512.00696)
+[![arXiv](https://img.shields.io/badge/arXiv-2025.2512.00696-b31b1b.svg)](https://doi.org/10.48550/arXiv.2512.00696)
 
 ## Overview
 
