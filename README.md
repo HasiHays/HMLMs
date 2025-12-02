@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![arXiv](https://img.shields.io/badge/arXiv-2025.xxxxx-b31b1b.svg)](https://arxiv.org)
+[![arXiv](https://img.shields.io/badge/arXiv-2025.xxxxx-b31b1b.svg)](https://doi.org/10.48550/arXiv.2512.00696)
 
 ## Overview
 
@@ -234,7 +234,7 @@ Combines static node embeddings with learned temporal patterns across multiple t
 
 ## Publications & Citation
 
-If you use HMLMs in your research, please cite: (Pre-print available at: arXiv:submit/7034338 [cs.AI] 30 Nov 2025)
+If you use HMLMs in your research, please cite: (Pre-print available at: [arXiv:submit/7034338 [cs.AI] 30 Nov 2025](https://doi.org/10.48550/arXiv.2512.00696))
 
 ```bibtex
 @article{Hays2025HMLM,
@@ -242,7 +242,7 @@ If you use HMLMs in your research, please cite: (Pre-print available at: arXiv:s
   author={Hays, Hasi and Yu, Yue and Richardson, William},
   journal={[Journal Name]},
   year={2025},
-  doi={10.xxxx/xxxxx}
+  doi={[10.48550/arXiv.2512.00696](https://doi.org/10.48550/arXiv.2512.00696)}
 }
 ```
 
@@ -264,5 +264,5 @@ This work was supported by:
 
 ---
 
-**Last Updated**: November 2025  
+**Last Updated**: 12/02/2025  
 **Maintained By**: Hasi Hays (hasih@uark.edu)
